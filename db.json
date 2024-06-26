@@ -86,8 +86,15 @@
     {"id":13,"image":"./public/images/grid-13.jpg","span":"رایگان ایرانسلی","name":"انیمیشن - اکشن","baner":"۲۰۲۲ - آمریکا - زیرنویس دارد"},
     {"id":14,"image":"./public/images/grid-14.jpg","span":"رایگان ایرانسلی","name":"انیمیشن - ماجراجویی","baner":"۲۰۱۳ - آمریکا - چندزبانه"}
   ],
-  "product_d":[
-     {"id":1,"h2":"","a":"","image":"","span":"","h4":"","name":"","baner":""}
+  "product_d_1":[
+     {"id":1,"image":"./public/images/doobs-1.webp","span":"رایگان ایرانسلی","h4":"دوستان خیالی","name":"","baner":""},
+     {"id":2,"image":"./public/images/doobs-2.webp","span":"رایگان ایرانسلی","h4":"ارباب بزرگ ارباب کوچک","name":"","baner":""},
+     {"id":3,"image":"./public/images/doobs-3.jpg","span":"رایگان ایرانسلی","h4":"غریبه ها: بخش ۱","name":"","baner":""},
+     {"id":4,"image":"./public/images/doobs-4.jpg","span":"رایگان ایرانسلی","h4":"گودزیلا و کونگ: امپراتوری جدید","name":"","baner":""},
+     {"id":5,"image":"./public/images/doobs-5.jpg","span":"رایگان ایرانسلی","h4":"ناردون","name":"","baner":""},
+     {"id":6,"image":"./public/images/doobs-6.jpg","span":"رایگان ایرانسلی","h4":"اثر پارادوکس","name":"","baner":""},
+     {"id":7,"image":"./public/images/doobs-7.jpg","span":"رایگان ایرانسلی","h4":"خاطرات یک قاضی","name":"","baner":""},
+     {"id":8,"image":"./public/images/doobs-8.jpg","span":"رایگان ایرانسلی","h4":"بوی تمام جهان را می کشد","name":"","baner":""}
   ],
   "slider": [
     {
