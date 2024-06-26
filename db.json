@@ -1,0 +1,144 @@
+{
+  "menu": [
+    { "id": 1, "name": "وسترن" },
+    { "id": 2, "name": "مستند" },
+    { "id": 3, "name": "جنگی" },
+    { "id": 4, "name": "فانتزی" },
+    { "id": 5, "name": "وحشت" },
+    { "id": 6, "name": "عاشقانه" },
+    { "id": 7, "name": "جنایی" },
+    { "id": 8, "name": "درام" },
+    { "id": 9, "name": "انیمیشن" },
+    { "id": 10, "name": "اکشن" },
+    { "id": 11, "name": "ورزشی" },
+    { "id": 12, "name": "تاریخی" },
+    { "id": 13, "name": "علمی تخیلی" },
+    { "id": 14, "name": "بیوگرافی" },
+    { "id": 15, "name": "رازآلود" },
+    { "id": 16, "name": "هیجان انگیز" },
+    { "id": 17, "name": "خانوادگی" },
+    { "id": 18, "name": "ماجراجویی" },
+    { "id": 19, "name": "انیمیشن" }
+  ],
+  "menu__2": [
+    { "id": 1, "name": "جنگی" },
+    { "id": 2, "name": "مستند" },
+    { "id": 3, "name": "وحشت" },
+    { "id": 4, "name": "تاک شو" },
+    { "id": 5, "name": "تاریخی" },
+    { "id": 6, "name": "جنایی" },
+    { "id": 7, "name": "ریلیتی شو" },
+    { "id": 8, "name": "اکشن" },
+    { "id": 9, "name": "کمدی" },
+    { "id": 10, "name": "خانوادگی" },
+    { "id": 11, "name": "علمی تخیلی" },
+    { "id": 12, "name": "هیجان انگیز" },
+    { "id": 13, "name": "فانتزی" },
+    { "id": 14, "name": "رازآلود" },
+    { "id": 15, "name": "عاشقانه" },
+    { "id": 16, "name": "گیم شو" },
+    { "id": 17, "name": "ماجراجویی" },
+    { "id": 18, "name": "انیمیشن" },
+    { "id": 19, "name": "درام" }
+  ],
+  "menu__3":[
+    {"id":1,"name":"250 فیلم برتر IMDB"},
+    {"id":2,"name":"اسکار 2023"},
+    {"id":3,"name":"پرفروش‌های سینمای ایران"},
+    {"id":4,"name":"آموزش زبان انگلیسی"},
+    {"id":5,"name":"جشنواره فجر"},
+    {"id":6,"name":"مخصوص نابینایان"},
+    {"id":7,"name":"همه لیست‌ها"},
+    {"id":8,"name":"انیمه"},
+    {"id":9,"name":"هندی"},
+    {"id":10,"name":"موسیقی فیلم"},
+    {"id":11,"name":"پیشکش"},
+    {"id":12,"name":"مخصوص ناشنوایان"}
+  ],
+  "menu__4":[
+    {"id":1,"name":"شبکه کودک"},
+    {"id":2,"name":"باب اسفنجی"},
+    {"id":3,"name":"ماجراجویی"},
+    {"id":4,"name":"ولاد و نیکی"},
+    {"id":5,"name":"بچه رئیس"},
+    {"id":6,"name":"ماشین‌ها"},
+    {"id":7,"name":"انیمیشن زیر ۱۵ سال"},
+    {"id":8,"name":"کودک ایرانی"},
+    {"id":9,"name":"سگ‌ های نگهبان"},
+    {"id":10,"name":"دختر کفشدوزکی"},
+    {"id":11,"name":"هتل ترانسیلوانیا"},
+    {"id":12,"name":"اژدها و هیولاها"},
+    {"id":13,"name":"مخصوص ناشنوایان"}
+  ],
+  "product-up":[
+    {"id":1,"image":"./public/images/grid-1.jpg","span":"رایگان ایرانسلی","name":"صداتو - فصل ۲ قسمت ۱۳: گذر لوطیا","baner":"۱۴۰۲ - ریلیتی شو - گیم شو"},
+    {"id":2,"image":"./public/images/grid-2.jpg","span":"رایگان ایرانسلی","name":"جوکر ۲ - فصل ۱ قسمت ۳","baner":"۱۴۰۳ - کمدی - ریلیتی شو"},
+    {"id":3,"image":"./public/images/grid-3.webp","span":"اکران آنلاین","name":"خط آتش - فصل ۱ قسمت ۱","baner":"۱۴۰۱ - درام - جنگی"},
+    {"id":4,"image":"./public/images/grid-4.webp","span":"رایگان ایرانسلی","name":"زخم کاری: انتقام - فصل ۳ قسمت ۲","baner":"۱۴۰۳ - درام - خانوادگی"},
+    {"id":5,"image":"./public/images/grid-5.jpeg","span":"رایگان ایرانسلی","name":"دوستان خیالی","baner":"۲۰۲۴ - انیمیشن - کمدی"},
+    {"id":6,"image":"./public/images/grid-6.jpeg","span":"رایگان ایرانسلی","name":"۳۵ میلیمتری - فصل ۱ قسمت ۲","baner":"۱۴۰۳ - تاک شو"},
+    {"id":7,"image":"./public/images/grid-7.jpeg","span":"رایگان ایرانسلی","name":"قطب شمال - فصل ۱ قسمت ۹","baner":"۱۴۰۳ - درام - عاشقانه"},
+    {"id":8,"image":"./public/images/grid-8.jpg","span":"رایگان ایرانسلی","name":"سپنج - هوشنگ مرادی کرمانی","baner":"۱۴۰۲ - تاک شو"},
+    {"id":9,"image":"./public/images/grid-9.jpg","span":"رایگان ایرانسلی","name":"هشدار محتوای آزاردهنده","baner":"۲۰۲۴ - اکشن - هیجان انگیز"},
+    {"id":10,"image":"./public/images/grid-10.jpg","span":"رایگان ایرانسلی","name":"کمدی - عاشقانه","baner":"۱۳۹۹ - ایران - زیرنویس دارد"},
+    {"id":11,"image":"./public/images/grid-11.jpg","span":"رایگان ایرانسلی","name":"وحشت - هیجان انگیز","baner":"۲۰۲۴ - آمریکا - دوبله شده"},
+    {"id":12,"image":"./public/images/grid-12.jpg","span":"رایگان ایرانسلی","name":"پالتو شتری","baner":"۱۳۹۷ - کمدی - خانوادگی"},
+    {"id":13,"image":"./public/images/grid-13.jpg","span":"رایگان ایرانسلی","name":"انیمیشن - اکشن","baner":"۲۰۲۲ - آمریکا - زیرنویس دارد"},
+    {"id":14,"image":"./public/images/grid-14.jpg","span":"رایگان ایرانسلی","name":"انیمیشن - ماجراجویی","baner":"۲۰۱۳ - آمریکا - چندزبانه"}
+  ],
+  "product_d":[
+     {"id":1,"h2":"","a":"","image":"","span":"","h4":"","name":"","baner":""}
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "image": "./public/images/10lhg_desktop_1_v1.jpeg",
+      "imageMobile": "./public/images/jok.jpeg",
+      "alt": "iamage-1",
+      "mama": "./public/images/chesh-abi.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/jexcu_desktop_1_v1.jpeg",
+      "imageMobile": "./public/images/kiri-magham.jpeg",
+      "alt": "iamage-2"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/ngue6_desktop_1_v1.jpeg",
+      "imageMobile": "./public/images/zhooli.jpeg",
+      "alt": "iamage-3"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/lvcym_desktop_1_v3.jpeg",
+      "imageMobile": "./public/images/chesh-abi.jpeg",
+      "alt": "iamage-4"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/147253_desktop_1_v1.jpeg",
+      "imageMobile": "./public/images/kooni.jpeg",
+      "alt": "iamage-5"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/p392r_desktop_1_v2.jpeg",
+      "imageMobile": "./public/images/mashal.jpeg",
+      "alt": "iamage-6"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/ikw1b_desktop_1_v1.jpeg",
+      "imageMobile": "./public/images/nevisande.jpeg",
+      "alt": "iamage-7"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/td07l_desktop_1_v1.jpeg",
+      "imageMobile": "./public/images/bache.jpeg",
+      "alt": "iamage-8"
+    }
+  ],
+  "product": [{}]
+}

@@ -1,0 +1,1183 @@
+/*
+   tavake koondaride
+  <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" -->
+                    <!-- <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >وسترن</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >مستند</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >جنگی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >فانتزی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >وحشت</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >عاشقانه</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >جنایی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >درام</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >انیمیشن</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >اکشن</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >ورزشی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >تاریخی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >علمی تخیلی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >بیوگرافی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >رازآلود</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >هیجان انگیز</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >خانوادگی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >ماجراجویی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >انیمیشن</a
+                    > -->
+
+
+*/
+
+/*
+   mamadekondaride
+  <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" -->
+                    <!-- <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >جنگی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >مستند</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >وحشت</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >تاک شو</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >تاریخی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >جنایی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >ریلیتی شو</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >اکشن</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >کمدی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >خانوادگی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >علمی تخیلی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >هیجان انگیز</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >فانتزی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >رازآلود</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >عاشقانه</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >گیم شو</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >ماجراجویی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >انیمیشن</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >درام</a
+                    > -->
+
+
+
+*/
+
+/*
+    alikondaride
+   <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" -->
+                    <!-- <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >250 فیلم برتر IMDB</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >اسکار 2023</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >پرفروش‌های سینمای ایران</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >آموزش زبان انگلیسی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >جشنواره فجر</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >مخصوص نابینایان</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >همه لیست‌ها</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >انیمه</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >هندی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >موسیقی فیلم</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >پیشکش</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >مخصوص ناشنوایان</a
+                    > -->
+
+
+*/
+
+
+/*
+   mersad
+  <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" -->
+                    <!-- <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >شبکه کودک</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >باب اسفنجی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >ماجراجویی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >ولاد و نیکی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >بچه رئیس</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >ماشین‌ها</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >انیمیشن زیر ۱۵ سال</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >کودک ایرانی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-1"
+                      >سگ‌ های نگهبان</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >دختر کفشدوزکی</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >هتل ترانسیلوانیا</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-2"
+                      >اژدها و هیولاها</a
+                    >
+                    <a
+                      href="#"
+                      class="block px-2 py-0 text-[#FFFFFF] w-fit font-normal text-right text-[11px] opacity-95 hover:text-[#F1A803] h-[37px] leading-[37px]"
+                      role="menuitem"
+                      tabindex="-1"
+                      id="menu-item-0"
+                      >مخصوص ناشنوایان</a
+                    > -->
+
+*/
+
+
+/*
+   product up
+  <!-- <div
+                class="h-[213px] max-sm:h-[140px] rounded cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-1.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px]  max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      صداتو - فصل ۲ قسمت ۱۳: گذر لوطیا
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۲ - ریلیتی شو - گیم شو
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-2.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      جوکر ۲ - فصل ۱ قسمت ۳
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۳ - کمدی - ریلیتی شو
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-3.webp"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#de2f2f] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[12px] font-medium pr-2 text-center h-full"
+                    >اکران آنلاین</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      خط آتش - فصل ۱ قسمت ۱
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۲۰۲۰ - اکشن - درام
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-4.webp"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      زخم کاری: انتقام - فصل ۳ قسمت ۲
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۳ - درام - خانوادگی
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-5.jpeg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      دوستان خیالی
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۲۰۲۴ - انیمیشن - کمدی
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-6.jpeg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۳۵ میلیمتری - فصل ۱ قسمت ۲
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۳ - تاک شو
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-7.jpeg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      قطب شمال - فصل ۱ قسمت ۹
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۳ - درام - عاشقانه
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-8.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      سپنج - هوشنگ مرادی کرمانی
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۲ - تاک شو
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-9.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      هشدار محتوای آزاردهنده
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۲۰۲۴ - اکشن - هیجان انگیز
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-10.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      کمدی - عاشقانه
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۳۹۹ - ایران - زیرنویس دارد
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-11.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      وحشت - هیجان انگیز
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۲۰۲۴ - آمریکا - دوبله شده
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-12.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      پالتو شتری
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۳۹۷ - کمدی - خانوادگی
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-13.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      انیمیشن - اکشن
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۲۰۲۲ - آمریکا - زیرنویس دارد
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="h-[213px] rounded max-sm:h-[140px] cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/grid-14.jpg"
+                  alt=""
+                  class="block w-full h-full rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-2 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <div
+                  class="coover w-full h-full bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[160px] max-sm:mt-[90px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      انیمیشن - ماجراجویی
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۲۰۱۳ - آمریکا - چندزبانه
+                    </div>
+                  </div>
+                </div>
+              </div> -->
+
+
+*/
+
+
+/*
+
+ <div
+          id="product"
+          class="w-full mt-[30px] product box-border min-[1200px]:mb-11 max-sm:mb-6"
+        >
+          <div
+            id="markazi"
+            class="min-[1200px]:w-[1800px] max-sm:w-full h-full min-[1200px]:mx-auto min-[1200px]:px-[30px] max-sm:px-[10px] product__1"
+          >
+            <div
+              id="up"
+              class="upp w-full mb-[12px] h-[30px] flex justify-between"
+            >
+              <h2
+                class="h__4 text-[14px] w-[90px] h-[24px] font-bold text-[#F3F3F3] cursor-pointer hover:text-[#F1A803]"
+              >
+                خفن ترین ها
+              </h2>
+              <div class="moshahede flex w-[82px] h-full">
+                <a
+                  href="#"
+                  class="moshahede__1 block w-[72px] text-[#F1A803] cursor-pointer text-[11px] leading-[30px]"
+                  >مشاهده همه</a
+                >
+                <span class="flesh w-[10p] h-[10px]">
+                  <svg
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    width="10"
+                    height="10"
+                    class="mt-[10px] mr-0"
+                  >
+                    <defs>
+                      <g id="ui-icon-arrow_back_ios" viewBox="0 0 24 24">
+                        <path
+                          d="M16 20.5a1 1 0 0 1-.68-.27l-8-7.5a1 1 0 0 1 0-1.46l8-7.5a1 1 0 1 1 1.36 1.46L9.46 12l7.22 6.77a1 1 0 0 1 .05 1.41A1 1 0 0 1 16 20.5Z"
+                        ></path>
+                      </g>
+                    </defs>
+                    <use
+                      xlink:href="#ui-icon-arrow_back_ios"
+                      fill="#F1A803"
+                    ></use>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              id="down"
+              class="dowwn grid min-[1200px]:grid-cols-8 min-[1200px]:grid-rows-1 max-sm:grid-cols-2 max-sm:grid-rows-3 gap-2"
+            >
+              <div
+                class="h-[325px] rounded cursor-pointer relative group overflow-hidden"
+              >
+                <img
+                  src="./public/images/doobs-1.webp"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  دوستان خیالی
+                </h4>
+                <div
+                  class="coover w-full h-[292px] mt-[10px] box-border bg-[rgb(41,41,41)]/70 absolute transition-[0ms] group-hover:block right-[100%] group-hover:right-[0]"
+                >
+                  <div class="subcover mt-[240px] pr-2">
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      صداتو - فصل ۲ قسمت ۱۳: گذر لوطیا
+                    </div>
+                    <div class="text-[#fff] text-[11px] font-normal mb-[8px]">
+                      ۱۴۰۲ - ریلیتی شو - گیم شو
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="h-[325px] rounded cursor-pointer relative">
+                <img
+                  src="./public/images/doobs-2.webp"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  ارباب بزرگ ارباب کوچک
+                </h4>
+              </div>
+              <div class="h-[325px] rounded cursor-pointer relative">
+                <img
+                  src="./public/images/doobs-3.jpg"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  غریبه ها: بخش ۱
+                </h4>
+              </div>
+              <div class="h-[325px] rounded cursor-pointer relative">
+                <img
+                  src="./public/images/doobs-4.jpg"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  گودزیلا و کونگ: امپراتوری جدید
+                </h4>
+              </div>
+              <div class="h-[325px] rounded cursor-pointer relative">
+                <img
+                  src="./public/images/doobs-5.jpg"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  ناردون
+                </h4>
+              </div>
+              <div class="h-[325px] rounded cursor-pointer relative">
+                <img
+                  src="./public/images/doobs-6.jpg"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  اثر پارادوکس
+                </h4>
+              </div>
+              <div
+                class="h-[325px] rounded max-sm:hidden cursor-pointer relative"
+              >
+                <img
+                  src="./public/images/doobs-7.jpg"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  خاطرات یک قاضی
+                </h4>
+              </div>
+              <div
+                class="h-[325px] rounded max-sm:hidden cursor-pointer relative"
+              >
+                <img
+                  src="./public/images/doobs-8.jpg"
+                  alt=""
+                  class="block w-full h-[302px] pt-[10px] rounded object-cover"
+                />
+                <div
+                  class="w-[81px] h-[24px] bg-[#1cb561] absolute top-4 left-2 rounded-xl"
+                >
+                  <span
+                    class="leading-[19px] text-[#F3F3F3] text-[10px] font-medium pr-2 text-center h-full"
+                    >رایگان ایرانسلی</span
+                  >
+                </div>
+                <h4
+                  class="block text-right font-normal text-[#F3F3F3] pl-[30px] text-[11px] mt-[8px]"
+                >
+                  بوی تمام جهان را می کشد
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+
+*/
