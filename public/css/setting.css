@@ -89,6 +89,15 @@ span.fuckedup:hover ~ a {
 a.fuckedup:hover {
   color: #f1a803;
 }
+span.fuckedupp:hover > svg.fuckedupp> defs > g {
+  fill: #f1a803;
+}
+span.fuckedupp:hover ~ a {
+  color: #f1a803;
+}
+a.fuckedupp:hover {
+  color: #f1a803;
+}
 .coover{
   position: absolute;
   top: 0;
